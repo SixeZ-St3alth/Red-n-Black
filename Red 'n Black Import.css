@@ -27,7 +27,7 @@
     --mention-background-hover: rgba(255, 0, 0, .1);
 
     /* Background Image (change the url inside the brackets, default: url(https://i.imgur.com/6rlzsb8.png); ) */
-    --background-url: url(https://i.imgur.com/6rlzsb8.png);
+    --background-url: url(); /* NO BACKGROUND
     /* Background Color (Default: black) */
     --background-color: black;
 
